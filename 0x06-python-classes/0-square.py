@@ -1,5 +1,10 @@
 #!/usr/bin/python3
-""" squared class"""
+"""
+0. My first square
+An empty class Square that defines a square
+"""
+
+
 class Square:
-    """Define a class"""
-	pass
+    """Empty class that defines a scquare"""
+    pass
