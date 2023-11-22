@@ -2,4 +2,4 @@
 """ squared class"""
 class Square:
     """Define a class"""
-
+	pass
