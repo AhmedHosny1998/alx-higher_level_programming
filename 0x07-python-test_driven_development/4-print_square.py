@@ -7,7 +7,7 @@ Attributes:
 
 
 def print_square(size):
-"""Prints a square with the character #.
+   """Prints a square with the character #.
 
     Args:
         size (int): Size of the square (1 side).
