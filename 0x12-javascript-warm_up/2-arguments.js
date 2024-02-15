@@ -1,4 +1,4 @@
-/usr/bin/node
+#!/usr/bin/node
 let s;
 if (process.argv.length < 3) {
   s = 'No argument';
