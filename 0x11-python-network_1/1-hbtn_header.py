@@ -10,6 +10,5 @@ import urllib.request
 
 if __name__ == "__main__":
     re = urllib.request.Request(sys.argv[1])
-    with urllib.request.urlopen(re) as res:
+    with urllib.re.urlopen(re) as res:
         print(dict(res.headers).get("X-Request-Id"))
-
